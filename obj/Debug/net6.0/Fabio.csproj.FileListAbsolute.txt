@@ -1,0 +1,15 @@
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\bin\Debug\net6.0\Fabio.exe
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\bin\Debug\net6.0\Fabio.deps.json
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\bin\Debug\net6.0\Fabio.runtimeconfig.json
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\bin\Debug\net6.0\Fabio.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\bin\Debug\net6.0\Fabio.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\obj\Debug\net6.0\Fabio.csproj.AssemblyReference.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\obj\Debug\net6.0\Fabio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\obj\Debug\net6.0\Fabio.AssemblyInfoInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\obj\Debug\net6.0\Fabio.AssemblyInfo.cs
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\obj\Debug\net6.0\Fabio.csproj.CoreCompileInputs.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\obj\Debug\net6.0\Fabio.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\obj\Debug\net6.0\refint\Fabio.dll
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\obj\Debug\net6.0\Fabio.pdb
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\obj\Debug\net6.0\Fabio.genruntimeconfig.cache
+C:\Users\fabio\OneDrive\Área de Trabalho\Fabio\obj\Debug\net6.0\ref\Fabio.dll
